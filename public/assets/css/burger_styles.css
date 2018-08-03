@@ -1,0 +1,25 @@
+body {
+vertical-align: middle;
+text-align: center;
+background-image: url(/assets/img/wallpaper.jpg)
+}
+
+ul {
+    text-align: left;
+}
+
+span {
+    display:inline-block;
+    margin: 20px;
+}
+
+#main {
+    background-color:yellow;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+
+.eaten {
+    opacity: 0.3;
+}

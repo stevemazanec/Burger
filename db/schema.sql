@@ -11,5 +11,13 @@ CREATE TABLE burgers
     devoured BOOLEAN DEFAULT FALSE,
     PRIMARY KEY
     (id)
-)
+);
 
+SELECT * FROM burgers;
+
+INSERT INTO burgers
+    (burger_name)
+VALUE
+("Cheeseburger"),
+("Big Mac"),
+("Whopper");
