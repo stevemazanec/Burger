@@ -1,1 +1,1 @@
-# Burger
+A full stack app using express, node, handlebars, MySQL, jQuery, CSS, and more that allows users to create and update data that's stored in MySQL.
