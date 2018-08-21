@@ -1,1 +1,1 @@
-A full stack app using express, node, handlebars, MySQL, jQuery, CSS, and more that allows users to create and update data that's stored in MySQL.
+A full stack app using express, node, handlebars, MySQL, jQuery, CSS, and more that allows users to create and update data that's stored in MySQL. The live version can be viewed at https://obscure-temple-16866.herokuapp.com/
